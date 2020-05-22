@@ -1,2 +1,1 @@
-" Bu girişimi görmek isterdim ama görmedim .
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=girişimi}{morphologicalAnalysis=girişim+NOUN+A3SG+P3SG+NOM}{metaMorphemes=girişim+sH} {turkish=görmek}{morphologicalAnalysis=gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=gör+mAk} {turkish=isterdim}{morphologicalAnalysis=iste+VERB+POS+AOR+PAST+A1SG}{metaMorphemes=iste+Hr+yDH+m} {turkish=ama}{morphologicalAnalysis=ama+CONJ}{metaMorphemes=ama} {turkish=görmedim}{morphologicalAnalysis=gör+VERB+NEG+PAST+A1SG}{metaMorphemes=gör+mA+DH+m} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

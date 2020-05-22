@@ -1,2 +1,1 @@
-Biz olsaydık , bu bizi korkutabilirdi '' diyor .
-
+{turkish=Biz}{morphologicalAnalysis=biz+NOUN+A3SG+PNON+NOM}{metaMorphemes=biz} {turkish=olsaydık}{morphologicalAnalysis=ol+VERB+POS+DESR+PAST+A1PL}{metaMorphemes=ol+SA+yDH+k} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=bizi}{morphologicalAnalysis=biz+PRON+PERS+A1PL+PNON+ACC}{metaMorphemes=biz+nH} {turkish=korkutabilirdi}{morphologicalAnalysis=korkut+VERB+POS^DB+VERB+ABLE+AOR+PAST+A3SG}{metaMorphemes=korkut+yAbil+Hr+yDH} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

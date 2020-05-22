@@ -1,2 +1,1 @@
-Bu sefer bir panik reaksiyonu alacağımızı sanmıyorum .
-
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=sefer}{morphologicalAnalysis=sefer+NOUN+A3SG+PNON+NOM}{metaMorphemes=sefer} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=panik}{morphologicalAnalysis=panik+NOUN+A3SG+PNON+NOM}{metaMorphemes=panik} {turkish=reaksiyonu}{morphologicalAnalysis=reaksiyon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=reaksiyon+sH} {turkish=alacağımızı}{morphologicalAnalysis=al+VERB+POS^DB+NOUN+FUTPART+A3SG+P1PL+ACC}{metaMorphemes=al+yAcAk+HmHz+yH} {turkish=sanmıyorum}{morphologicalAnalysis=san+VERB+NEG+PROG1+A1SG}{metaMorphemes=san+mA+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

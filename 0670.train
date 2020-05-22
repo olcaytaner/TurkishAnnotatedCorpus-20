@@ -1,2 +1,1 @@
-Ve avukatlar bunu tamamlamada hakim kadar istekliydi .
-
+{turkish=Ve}{morphologicalAnalysis=ve+CONJ}{metaMorphemes=ve} {turkish=avukatlar}{morphologicalAnalysis=avukat+NOUN+A3PL+PNON+NOM}{metaMorphemes=avukat+lAr} {turkish=bunu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+ACC}{metaMorphemes=bu+nH} {turkish=tamamlamada}{morphologicalAnalysis=tamamla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+LOC}{metaMorphemes=tamamla+mA+DA} {turkish=hakim}{morphologicalAnalysis=hakim+NOUN+A3SG+PNON+NOM}{metaMorphemes=hakim} {turkish=kadar}{morphologicalAnalysis=kadar+POSTP+PCDAT}{metaMorphemes=kadar} {turkish=istekliydi}{morphologicalAnalysis=istekli+ADJ^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=istekli+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

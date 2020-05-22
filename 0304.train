@@ -1,2 +1,1 @@
-Japonya'nın yurtdışına yatırdığı paranın sadece %1'i bu .
-
+{turkish=Japonya'nın}{morphologicalAnalysis=japonya+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=japonya+'nHn} {turkish=yurtdışına}{morphologicalAnalysis=yurtdışına+NOUN+A3SG+PNON+NOM}{metaMorphemes=yurtdışına} {turkish=yatırdığı}{morphologicalAnalysis=yatır+VERB+POS^DB+ADJ+PASTPART+P3SG}{metaMorphemes=yatır+DHk+sH} {turkish=paranın}{morphologicalAnalysis=para+NOUN+A3SG+PNON+GEN}{metaMorphemes=para+nHn} {turkish=sadece}{morphologicalAnalysis=sadece+ADV}{metaMorphemes=sadece} {turkish=%1'i}{morphologicalAnalysis=%1'i+NOUN+A3SG+PNON+NOM}{metaMorphemes=%1'i} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

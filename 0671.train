@@ -1,2 +1,1 @@
-`` Yerleşimi kayıtlara okumak aklımdaki son şeydi .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Yerleşimi}{morphologicalAnalysis=yerleşim+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yerleşim+sH} {turkish=kayıtlara}{morphologicalAnalysis=kayıt+NOUN+A3PL+PNON+DAT}{metaMorphemes=kayıt+lAr+yA} {turkish=okumak}{morphologicalAnalysis=oku+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=oku+mAk} {turkish=aklımdaki}{morphologicalAnalysis=akıl+NOUN+A3SG+P1SG+LOC^DB+ADJ+REL}{metaMorphemes=akıl+Hm+DA+ki} {turkish=son}{morphologicalAnalysis=son+ADJ}{metaMorphemes=son} {turkish=şeydi}{morphologicalAnalysis=şey+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=şey+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

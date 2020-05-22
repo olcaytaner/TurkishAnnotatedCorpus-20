@@ -1,2 +1,1 @@
-" Bana kalırsa bu tamamen aynı şey. " 
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Bana}{morphologicalAnalysis=ben+PRON+PERS+A1SG+PNON+DAT}{metaMorphemes=ben+yA} {turkish=kalırsa}{morphologicalAnalysis=kal+VERB+POS+AOR+COND+A3SG}{metaMorphemes=kal+Hr+ysA} {turkish=bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=tamamen}{morphologicalAnalysis=tamamen+ADV}{metaMorphemes=tamamen} {turkish=aynı}{morphologicalAnalysis=aynı+ADJ}{metaMorphemes=aynı} {turkish=şey.}{morphologicalAnalysis=şey.+NOUN+A3SG+PNON+NOM}{metaMorphemes=şey.} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="}

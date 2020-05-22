@@ -1,2 +1,1 @@
-Bunun için Postel'in terasına bir vinç çıkarılmalıydı .
-
+{turkish=Bunun}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+GEN}{metaMorphemes=bu+nHn} {turkish=için}{morphologicalAnalysis=için+POSTP+PCNOM}{metaMorphemes=için} {turkish=Postel'in}{morphologicalAnalysis=postel+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=postel+'nHn} {turkish=terasına}{morphologicalAnalysis=teras+NOUN+A3SG+P3SG+DAT}{metaMorphemes=teras+sH+nA} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=vinç}{morphologicalAnalysis=vinç+NOUN+A3SG+PNON+NOM}{metaMorphemes=vinç} {turkish=çıkarılmalıydı}{morphologicalAnalysis=çık+VERB^DB+VERB+CAUS^DB+VERB+PASS+POS+NECES+PAST+A3SG}{metaMorphemes=çık+Ar+Hl+mAlH+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

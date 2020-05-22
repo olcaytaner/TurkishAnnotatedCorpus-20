@@ -1,2 +1,1 @@
-Spekülatörler piyasada olmayan likidite derecesini arıyor . ''
-
+{turkish=Spekülatörler}{morphologicalAnalysis=spekülatör+NOUN+A3PL+PNON+NOM}{metaMorphemes=spekülatör+lAr} {turkish=piyasada}{morphologicalAnalysis=piyasa+NOUN+A3SG+PNON+LOC}{metaMorphemes=piyasa+DA} {turkish=olmayan}{morphologicalAnalysis=ol+VERB+NEG^DB+ADJ+PRESPART}{metaMorphemes=ol+mA+yAn} {turkish=likidite}{morphologicalAnalysis=likidite+NOUN+A3SG+PNON+NOM}{metaMorphemes=likidite} {turkish=derecesini}{morphologicalAnalysis=derece+NOUN+A3SG+P3SG+ACC}{metaMorphemes=derece+sH+nH} {turkish=arıyor}{morphologicalAnalysis=ara+VERB+POS+PROG1+A3SG}{metaMorphemes=ara+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

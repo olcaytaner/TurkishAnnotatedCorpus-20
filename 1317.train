@@ -1,2 +1,1 @@
-Yoksa , anlaşma pay sahiplerine verilmeyecektir .
-
+{turkish=Yoksa}{morphologicalAnalysis=yoksa+CONJ}{metaMorphemes=yoksa} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=anlaşma}{morphologicalAnalysis=anlaşma+NOUN+A3SG+PNON+NOM}{metaMorphemes=anlaşma} {turkish=pay}{morphologicalAnalysis=pay+NOUN+A3SG+PNON+NOM}{metaMorphemes=pay} {turkish=sahiplerine}{morphologicalAnalysis=sahip+NOUN+A3PL+P3SG+DAT}{metaMorphemes=sahip+lAr+sH+nA} {turkish=verilmeyecektir}{morphologicalAnalysis=ver+VERB^DB+VERB+PASS+NEG+FUT+COP+A3SG}{metaMorphemes=ver+Hl+mA+yAcAk+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

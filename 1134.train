@@ -1,2 +1,1 @@
-`` Buna çok para harcıyabilecek ortamlardayız . '' ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Buna}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+DAT}{metaMorphemes=bu+nA} {turkish=çok}{morphologicalAnalysis=çok+ADJ}{metaMorphemes=çok} {turkish=para}{morphologicalAnalysis=para+NOUN+A3SG+PNON+NOM}{metaMorphemes=para} {turkish=harcayabilecek}{morphologicalAnalysis=harca+VERB+POS^DB+VERB+ABLE+FUT+A3SG}{metaMorphemes=harca+yAbil+yAcAk} {turkish=ortamlardayız}{morphologicalAnalysis=ortam+NOUN+A3PL+PNON+LOC^DB+VERB+ZERO+PRES+A1PL}{metaMorphemes=ortam+lAr+DA+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

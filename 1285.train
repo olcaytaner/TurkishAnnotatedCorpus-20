@@ -1,2 +1,1 @@
-Şirket sürecin bitmesinin 6 ay alabileceğini söyledi .
-
+{turkish=Şirket}{morphologicalAnalysis=şirket+NOUN+A3SG+PNON+NOM}{metaMorphemes=şirket} {turkish=sürecin}{morphologicalAnalysis=süreç+NOUN+A3SG+PNON+GEN}{metaMorphemes=süreç+nHn} {turkish=bitmesinin}{morphologicalAnalysis=bit+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+GEN}{metaMorphemes=bit+mA+sH+nHn} {turkish=6}{morphologicalAnalysis=6+NUM+CARD}{metaMorphemes=6} {turkish=ay}{morphologicalAnalysis=ay+NOUN+A3SG+PNON+NOM}{metaMorphemes=ay} {turkish=alabileceğini}{morphologicalAnalysis=al+VERB+POS^DB+VERB+ABLE^DB+NOUN+FUTPART+A3SG+P3SG+ACC}{metaMorphemes=al+yAbil+yAcAk+sH+nH} {turkish=söyledi}{morphologicalAnalysis=söyle+VERB+POS+PAST+A3SG}{metaMorphemes=söyle+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,2 +1,1 @@
-" Yeter artık , " diyebilen adam nerede?
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Yeter}{morphologicalAnalysis=yeter+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=yeter} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=diyebilen}{morphologicalAnalysis=de+VERB+POS^DB+VERB+ABLE^DB+ADJ+PRESPART}{metaMorphemes=de+yAbil+yAn} {turkish=adam}{morphologicalAnalysis=adam+NOUN+A3SG+PNON+NOM}{metaMorphemes=adam} {turkish=nerede?}{morphologicalAnalysis=nerede?+NOUN+A3SG+PNON+NOM}{metaMorphemes=nerede?}

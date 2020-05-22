@@ -1,2 +1,1 @@
-Enflasyonun parlaması kolay , ancak kontrolü zordur .
-
+{turkish=Enflasyonun}{morphologicalAnalysis=enflasyon+NOUN+A3SG+PNON+GEN}{metaMorphemes=enflasyon+nHn} {turkish=parlaması}{morphologicalAnalysis=parla+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+NOM}{metaMorphemes=parla+mA+sH} {turkish=kolay}{morphologicalAnalysis=kolay+ADJ}{metaMorphemes=kolay} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=ancak}{morphologicalAnalysis=ancak+ADV}{metaMorphemes=ancak} {turkish=kontrolü}{morphologicalAnalysis=kontrol+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kontrol+sH} {turkish=zordur}{morphologicalAnalysis=zor+ADJ^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=zor+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

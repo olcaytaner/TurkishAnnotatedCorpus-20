@@ -1,2 +1,1 @@
-Hepsi işte bu bakmak istemediğin el ilanında .
-
+{turkish=Hepsi}{morphologicalAnalysis=hepsi+PRON+QUANTP+A3PL+P3PL+NOM}{metaMorphemes=hepsi} {turkish=işte}{morphologicalAnalysis=işte+ADV}{metaMorphemes=işte} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=bakmak}{morphologicalAnalysis=bak+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bak+mAk} {turkish=istemediğin}{morphologicalAnalysis=iste+VERB+NEG^DB+ADJ+PASTPART+P2SG}{metaMorphemes=iste+mA+DHk+Hn} {turkish=el}{morphologicalAnalysis=el+NOUN+A3SG+PNON+NOM}{metaMorphemes=el} {turkish=ilanında}{morphologicalAnalysis=ilan+NOUN+A3SG+P3SG+LOC}{metaMorphemes=ilan+sH+nDA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

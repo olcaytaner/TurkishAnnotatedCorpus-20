@@ -1,2 +1,1 @@
-`` Nihai hayırseverlik biçimi kimseye bahsetmediğinizdir . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Nihai}{morphologicalAnalysis=nihai+ADJ}{metaMorphemes=nihai} {turkish=hayırseverlik}{morphologicalAnalysis=hayırsever+ADJ^DB+NOUN+NESS+A3SG+PNON+NOM}{metaMorphemes=hayırsever+lHk} {turkish=biçimi}{morphologicalAnalysis=biçim+NOUN+A3SG+P3SG+NOM}{metaMorphemes=biçim+sH} {turkish=kimseye}{morphologicalAnalysis=kimse+NOUN+A3SG+PNON+DAT}{metaMorphemes=kimse+yA} {turkish=bahsetmediğinizdir}{morphologicalAnalysis=bahset+VERB+NEG^DB+NOUN+PASTPART+A3SG+P2PL+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=bahset+mA+DHk+HnHz+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

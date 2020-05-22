@@ -1,2 +1,1 @@
-Ama iyileştirmek için insanlara yatırım yapmaları gerekiyor .
-
+{turkish=Ama}{morphologicalAnalysis=ama+CONJ}{metaMorphemes=ama} {turkish=iyileştirmek}{morphologicalAnalysis=iyileştir+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=iyileştir+mAk} {turkish=için}{morphologicalAnalysis=için+POSTP+PCNOM}{metaMorphemes=için} {turkish=insanlara}{morphologicalAnalysis=insan+NOUN+A3PL+PNON+DAT}{metaMorphemes=insan+lAr+yA} {turkish=yatırım}{morphologicalAnalysis=yatırım+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatırım} {turkish=yapmaları}{morphologicalAnalysis=yap+VERB+POS^DB+NOUN+INF2+A3PL+P3SG+NOM}{metaMorphemes=yap+mA+lAr+sH} {turkish=gerekiyor}{morphologicalAnalysis=gerek+VERB+POS+PROG1+A3SG}{metaMorphemes=gerek+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

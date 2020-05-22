@@ -1,2 +1,1 @@
-Sonuçta `` I Survived '' tişörtlerinden alacağım galiba .
-
+{turkish=Sonuçta}{morphologicalAnalysis=sonuç+NOUN+A3SG+PNON+LOC}{metaMorphemes=sonuç+DA} {turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=I}{morphologicalAnalysis=ı+NUM+CARD}{metaMorphemes=ı} {turkish=Survived}{morphologicalAnalysis=Survived+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Survived} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=tişörtlerinden}{morphologicalAnalysis=tişört+NOUN+A3PL+P3SG+ABL}{metaMorphemes=tişört+lAr+sH+nDAn} {turkish=alacağım}{morphologicalAnalysis=al+VERB+POS+FUT+A1SG}{metaMorphemes=al+yAcAk+yHm} {turkish=galiba}{morphologicalAnalysis=galiba+ADV}{metaMorphemes=galiba} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,2 +1,1 @@
-Akzo'nun eski sağlığına kavuşması 1980'lerin başında oldu .
-
+{turkish=Akzo'nun}{morphologicalAnalysis=akzo+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=akzo+'nHn} {turkish=eski}{morphologicalAnalysis=eski+ADJ}{metaMorphemes=eski} {turkish=sağlığına}{morphologicalAnalysis=sağlık+NOUN+A3SG+P3SG+DAT}{metaMorphemes=sağlık+sH+nA} {turkish=kavuşması}{morphologicalAnalysis=kavuşma+NOUN^DB+ADJ+ALMOST}{metaMorphemes=kavuşma+SH} {turkish=1980'lerin}{morphologicalAnalysis=1980+NUM+CARD^DB+NOUN+ZERO+A3PL+PNON+GEN}{metaMorphemes=1980+'lAr+nHn} {turkish=başında}{morphologicalAnalysis=başında+NOUN+A3SG+PNON+NOM}{metaMorphemes=başında} {turkish=oldu}{morphologicalAnalysis=ol+VERB+POS+PAST+A3SG}{metaMorphemes=ol+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

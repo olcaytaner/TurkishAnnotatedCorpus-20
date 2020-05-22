@@ -1,2 +1,1 @@
-`` Bildirecek başka gelişmeler yok , '' dedi .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Bildirecek}{morphologicalAnalysis=bildir+VERB+POS^DB+ADJ+FUTPART+PNON}{metaMorphemes=bildir+yAcAk} {turkish=başka}{morphologicalAnalysis=başka+ADJ}{metaMorphemes=başka} {turkish=gelişmeler}{morphologicalAnalysis=gelişme+NOUN+A3PL+PNON+NOM}{metaMorphemes=gelişme+lAr} {turkish=yok}{morphologicalAnalysis=yok+ADJ}{metaMorphemes=yok} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=dedi}{morphologicalAnalysis=de+VERB+POS+PAST+A3SG}{metaMorphemes=de+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

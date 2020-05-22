@@ -1,2 +1,1 @@
-Cevabı , konumuna uygun olarak haysiyet taşımaktadır .
-
+{turkish=Cevabı}{morphologicalAnalysis=cevap+NOUN+A3SG+P3SG+NOM}{metaMorphemes=cevap+sH} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=konumuna}{morphologicalAnalysis=konum+NOUN+A3SG+P3SG+DAT}{metaMorphemes=konum+sH+nA} {turkish=uygun}{morphologicalAnalysis=uygun+ADJ}{metaMorphemes=uygun} {turkish=olarak}{morphologicalAnalysis=ol+VERB+POS^DB+ADV+BYDOINGSO}{metaMorphemes=ol+yArAk} {turkish=haysiyet}{morphologicalAnalysis=haysiyet+NOUN+A3SG+PNON+NOM}{metaMorphemes=haysiyet} {turkish=taşımaktadır}{morphologicalAnalysis=taşı+VERB+POS+PROG2+COP+A3SG}{metaMorphemes=taşı+mAktA+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,2 +1,1 @@
-" Bu tekrarlamak istemedikleri bir deneyim . ''
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=tekrarlamak}{morphologicalAnalysis=tekrarla+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=tekrarla+mAk} {turkish=istemedikleri}{morphologicalAnalysis=iste+VERB+NEG^DB+NOUN+PASTPART+A3PL+P3SG+NOM}{metaMorphemes=iste+mA+DHk+lAr+sH} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=deneyim}{morphologicalAnalysis=deneyim+NOUN+A3SG+PNON+NOM}{metaMorphemes=deneyim} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

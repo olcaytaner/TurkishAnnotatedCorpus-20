@@ -1,2 +1,1 @@
-" Amacımız en iyi alternatifi tanıtmak ,'' diyor .
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Amacımız}{morphologicalAnalysis=amaç+NOUN+A3SG+P1PL+NOM}{metaMorphemes=amaç+HmHz} {turkish=en}{morphologicalAnalysis=en+ADV}{metaMorphemes=en} {turkish=iyi}{morphologicalAnalysis=iyi+ADJ}{metaMorphemes=iyi} {turkish=alternatifi}{morphologicalAnalysis=alternatif+NOUN+A3SG+PNON+ACC}{metaMorphemes=alternatif+yH} {turkish=tanıtmak}{morphologicalAnalysis=tanı+VERB^DB+VERB+CAUS+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=tanı+t+mAk} {turkish=,''}{morphologicalAnalysis=,''+NOUN+A3SG+PNON+NOM}{metaMorphemes=,''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

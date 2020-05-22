@@ -1,2 +1,1 @@
-Ama Bay Sim , yeni bir hedef belirlediğinde
-
+{turkish=Ama}{morphologicalAnalysis=ama+CONJ}{metaMorphemes=ama} {turkish=Bay}{morphologicalAnalysis=bay+NOUN+A3SG+PNON+NOM}{metaMorphemes=bay} {turkish=Sim}{morphologicalAnalysis=sim+NOUN+A3SG+PNON+NOM}{metaMorphemes=sim} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=yeni}{morphologicalAnalysis=yeni+ADJ}{metaMorphemes=yeni} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=hedef}{morphologicalAnalysis=hedef+NOUN+A3SG+PNON+NOM}{metaMorphemes=hedef} {turkish=belirlediğinde}{morphologicalAnalysis=belirle+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+LOC}{metaMorphemes=belirle+DHk+sH+nDA}

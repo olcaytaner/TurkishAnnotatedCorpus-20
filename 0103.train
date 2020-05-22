@@ -1,2 +1,1 @@
-" Çözüm , ( Almanya'da ) daha güçlü yurtiçi büyüme , " dedi .
-
+{turkish="} {turkish=Çözüm}{morphologicalAnalysis=çözüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=çözüm} {turkish=,} {turkish=(} {turkish=Almanya'da}{morphologicalAnalysis=almanya+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=almanya+'DA} {turkish=)} {turkish=daha}{morphologicalAnalysis=daha+ADV}{metaMorphemes=daha} {turkish=güçlü}{morphologicalAnalysis=güç+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=güç+lH} {turkish=yurtiçi}{morphologicalAnalysis=yurtiçi+NOUN+A3SG+PNON+NOM}{metaMorphemes=yurtiçi} {turkish=büyüme}{morphologicalAnalysis=büyüme+NOUN+A3SG+PNON+NOM}{metaMorphemes=büyüme} {turkish=,} {turkish="} {turkish=dedi}{morphologicalAnalysis=de+VERB+POS+PAST+A3SG}{metaMorphemes=de+DH} {turkish=.}

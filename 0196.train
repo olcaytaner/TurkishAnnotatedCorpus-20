@@ -1,2 +1,1 @@
-Daha fazla iç demiyoruz , daha iyi iç diyoruz. " 
-
+{turkish=Daha}{morphologicalAnalysis=daha+ADV}{metaMorphemes=daha} {turkish=fazla}{morphologicalAnalysis=fazla+ADV}{metaMorphemes=fazla} {turkish=iç}{morphologicalAnalysis=iç+VERB+POS+IMP+A2SG}{metaMorphemes=iç} {turkish=demiyoruz}{morphologicalAnalysis=de+VERB+NEG+PROG1+A1PL}{metaMorphemes=de+mA+Hyor+yHz} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=daha}{morphologicalAnalysis=daha+ADV}{metaMorphemes=daha} {turkish=iyi}{morphologicalAnalysis=iyi+ADJ}{metaMorphemes=iyi} {turkish=iç}{morphologicalAnalysis=iç+VERB+POS+IMP+A2SG}{metaMorphemes=iç} {turkish=diyoruz.}{morphologicalAnalysis=diyoruz.+NOUN+A3SG+PNON+NOM}{metaMorphemes=diyoruz.} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="}

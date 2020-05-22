@@ -1,2 +1,1 @@
-Bu kez " panik azaldığında " satın almaya hazır. 
-
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=kez}{morphologicalAnalysis=kez+NOUN+A3SG+PNON+NOM}{metaMorphemes=kez} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=panik}{morphologicalAnalysis=panik+NOUN+A3SG+PNON+NOM}{metaMorphemes=panik} {turkish=azaldığında}{morphologicalAnalysis=azal+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+LOC}{metaMorphemes=azal+DHk+sH+nDA} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=satın} {turkish=almaya}{morphologicalAnalysis=al+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT}{metaMorphemes=al+mA+yA} {turkish=hazır.}{morphologicalAnalysis=hazır.+NOUN+A3SG+PNON+NOM}{metaMorphemes=hazır.}

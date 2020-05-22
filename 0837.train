@@ -1,2 +1,1 @@
-`` Reorganizasyon işinin olacağını sanmıyorum . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Reorganizasyon}{morphologicalAnalysis=reorganizasyon+NOUN+A3SG+PNON+NOM}{metaMorphemes=reorganizasyon} {turkish=işinin}{morphologicalAnalysis=iş+NOUN+A3SG+P3SG+GEN}{metaMorphemes=iş+sH+nHn} {turkish=olacağını}{morphologicalAnalysis=ol+VERB+POS^DB+NOUN+FUTPART+A3SG+P3SG+ACC}{metaMorphemes=ol+yAcAk+sH+nH} {turkish=sanmıyorum}{morphologicalAnalysis=san+VERB+NEG+PROG1+A1SG}{metaMorphemes=san+mA+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}
