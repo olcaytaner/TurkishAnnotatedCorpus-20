@@ -1,2 +1,1 @@
-Stratejiyi yapacak ve işe koyulup bütçeyi yapardık .
-
+{turkish=Stratejiyi}{morphologicalAnalysis=strateji+NOUN+A3SG+PNON+ACC}{metaMorphemes=strateji+yH} {turkish=yapacak}{morphologicalAnalysis=yap+VERB+POS+FUT+A3SG}{metaMorphemes=yap+yAcAk} {turkish=ve}{morphologicalAnalysis=ve+CONJ}{metaMorphemes=ve} {turkish=işe}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+DAT}{metaMorphemes=iş+yA} {turkish=koyulup}{morphologicalAnalysis=koy+VERB^DB+VERB+PASS+POS^DB+ADV+AFTERDOINGSO}{metaMorphemes=koy+Hl+yHp} {turkish=bütçeyi}{morphologicalAnalysis=bütçe+NOUN+A3SG+PNON+ACC}{metaMorphemes=bütçe+yH} {turkish=yapardık}{morphologicalAnalysis=yap+VERB+POS+AOR+PAST+A1PL}{metaMorphemes=yap+Ar+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

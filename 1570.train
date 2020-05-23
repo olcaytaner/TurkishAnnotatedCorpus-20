@@ -1,2 +1,1 @@
-Elbette , eğer Rotschilds ailesi tarafından işletilmezse .
-
+{turkish=Elbette}{morphologicalAnalysis=elbette+ADV}{metaMorphemes=elbette} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=eğer}{morphologicalAnalysis=eğer+CONJ}{metaMorphemes=eğer} {turkish=Rotschilds}{morphologicalAnalysis=Rotschilds+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Rotschilds} {turkish=ailesi}{morphologicalAnalysis=aile+NOUN+A3SG+P3SG+NOM}{metaMorphemes=aile+sH} {turkish=tarafından}{morphologicalAnalysis=tarafından+ADV}{metaMorphemes=tarafından} {turkish=işletilmezse}{morphologicalAnalysis=işlet+VERB^DB+VERB+PASS+NEG+AOR+COND+A3SG}{metaMorphemes=işlet+Hl+mA+z+ysA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

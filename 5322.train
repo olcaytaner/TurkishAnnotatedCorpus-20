@@ -1,2 +1,1 @@
-Enron artık enerjinin açık piyasada satılacağını söyledi .
-
+{turkish=Enron}{morphologicalAnalysis=Enron+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Enron} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık} {turkish=enerjinin}{morphologicalAnalysis=enerji+NOUN+A3SG+PNON+GEN}{metaMorphemes=enerji+nHn} {turkish=açık}{morphologicalAnalysis=açık+ADJ}{metaMorphemes=açık} {turkish=piyasada}{morphologicalAnalysis=piyasa+NOUN+A3SG+PNON+LOC}{metaMorphemes=piyasa+DA} {turkish=satılacağını}{morphologicalAnalysis=sat+VERB^DB+VERB+PASS+POS^DB+NOUN+FUTPART+A3SG+P3SG+ACC}{metaMorphemes=sat+Hl+yAcAk+sH+nH} {turkish=söyledi}{morphologicalAnalysis=söyle+VERB+POS+PAST+A3SG}{metaMorphemes=söyle+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

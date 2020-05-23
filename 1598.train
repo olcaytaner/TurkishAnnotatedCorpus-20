@@ -1,2 +1,1 @@
-`` Resmi çözüm veya tebliğler olmayacak , sanmıyorum .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Resmi}{morphologicalAnalysis=resmi+ADJ}{metaMorphemes=resmi} {turkish=çözüm}{morphologicalAnalysis=çözüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=çözüm} {turkish=veya}{morphologicalAnalysis=veya+CONJ}{metaMorphemes=veya} {turkish=tebliğler}{morphologicalAnalysis=tebliğ+NOUN+A3PL+PNON+NOM}{metaMorphemes=tebliğ+lAr} {turkish=olmayacak}{morphologicalAnalysis=ol+VERB+NEG+FUT+A3SG}{metaMorphemes=ol+mA+yAcAk} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=sanmıyorum}{morphologicalAnalysis=san+VERB+NEG+PROG1+A1SG}{metaMorphemes=san+mA+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

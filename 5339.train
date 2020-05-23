@@ -1,2 +1,1 @@
-Elimizdekiler üzerinde yapılacak epey iş var .
-
+{turkish=Elimizdekiler}{morphologicalAnalysis=el+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=el+HmHz+DA+ki+lAr} {turkish=üzerinde}{morphologicalAnalysis=üzerinde+ADV}{metaMorphemes=üzerinde} {turkish=yapılacak}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+POS^DB+ADJ+FUTPART+PNON}{metaMorphemes=yap+Hl+yAcAk} {turkish=epey}{morphologicalAnalysis=epey+ADV}{metaMorphemes=epey} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

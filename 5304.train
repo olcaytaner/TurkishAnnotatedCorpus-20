@@ -1,2 +1,1 @@
-Bay Steinhardt USAir'ın yardım istemeyebileceğini söyledi .
-
+{turkish=Bay}{morphologicalAnalysis=bay+NOUN+A3SG+PNON+NOM}{metaMorphemes=bay} {turkish=Steinhardt}{morphologicalAnalysis=Steinhardt+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Steinhardt} {turkish=USAir'ın}{morphologicalAnalysis=USAir'ın+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=USAir'ın} {turkish=yardım}{morphologicalAnalysis=yardım+NOUN+A3SG+PNON+NOM}{metaMorphemes=yardım} {turkish=istemeyebileceğini}{morphologicalAnalysis=iste+VERB+NEG^DB+VERB+ABLE^DB+NOUN+FUTPART+A3SG+P3SG+ACC}{metaMorphemes=iste+mA+yAbil+yAcAk+sH+nH} {turkish=söyledi}{morphologicalAnalysis=söyle+VERB+POS+PAST+A3SG}{metaMorphemes=söyle+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
