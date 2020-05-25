@@ -1,2 +1,1 @@
-Bu , muhtemelen kanunla düzenlenmiş bir şeydir .
-
+{turkish=Bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=muhtemelen}{morphologicalAnalysis=muhtemelen+ADV}{metaMorphemes=muhtemelen} {turkish=kanunla}{morphologicalAnalysis=kanun+NOUN+A3SG+PNON+INS}{metaMorphemes=kanun+ylA} {turkish=düzenlenmiş}{morphologicalAnalysis=düzenlen+VERB+POS+NARR^DB+ADJ+ZERO}{metaMorphemes=düzenlen+mHs} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=şeydir}{morphologicalAnalysis=şey+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=şey+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

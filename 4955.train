@@ -1,2 +1,1 @@
-Hiçbir şekilde bir anlaşma yapmaya kararlı değiliz .
-
+{turkish=Hiçbir}{morphologicalAnalysis=hiçbir+DET}{metaMorphemes=hiçbir} {turkish=şekilde}{morphologicalAnalysis=şekil+NOUN+A3SG+PNON+LOC}{metaMorphemes=şekil+DA} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=anlaşma}{morphologicalAnalysis=anlaşma+NOUN+A3SG+PNON+NOM}{metaMorphemes=anlaşma} {turkish=yapmaya}{morphologicalAnalysis=yap+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT}{metaMorphemes=yap+mA+yA} {turkish=kararlı}{morphologicalAnalysis=kararlı+ADJ}{metaMorphemes=kararlı} {turkish=değiliz}{morphologicalAnalysis=değil+ADJ^DB+VERB+ZERO+PRES+A1PL}{metaMorphemes=değil+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

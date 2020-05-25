@@ -1,2 +1,1 @@
-`` Tüm yolsuzluk sorunlarının tabanındalar , '' dedi .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Tüm}{morphologicalAnalysis=tüm+DET}{metaMorphemes=tüm} {turkish=yolsuzluk}{morphologicalAnalysis=yolsuzluk+NOUN+A3SG+PNON+NOM}{metaMorphemes=yolsuzluk} {turkish=sorunlarının}{morphologicalAnalysis=sorun+NOUN+A3PL+P3SG+GEN}{metaMorphemes=sorun+lAr+sH+nHn} {turkish=tabanındalar}{morphologicalAnalysis=taban+NOUN+A3SG+P3SG+LOC^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=taban+sH+nDA+lAr} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=dedi}{morphologicalAnalysis=de+VERB+POS+PAST+A3SG}{metaMorphemes=de+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
