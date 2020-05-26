@@ -1,2 +1,1 @@
-Burada şimdi yaptığımız gibi makara yaptığımı biliyorum .
-
+{turkish=Burada}{morphologicalAnalysis=burada+ADV}{metaMorphemes=burada} {turkish=şimdi}{morphologicalAnalysis=şimdi+ADV}{metaMorphemes=şimdi} {turkish=yaptığımız}{morphologicalAnalysis=yap+VERB+POS^DB+ADJ+PASTPART+P1PL}{metaMorphemes=yap+DHk+HmHz} {turkish=gibi}{morphologicalAnalysis=gibi+POSTP+PCNOM}{metaMorphemes=gibi} {turkish=makara}{morphologicalAnalysis=makara+NOUN+A3SG+PNON+NOM}{metaMorphemes=makara} {turkish=yaptığımı}{morphologicalAnalysis=yap+VERB+POS^DB+NOUN+PASTPART+A3SG+P1SG+ACC}{metaMorphemes=yap+DHk+Hm+yH} {turkish=biliyorum}{morphologicalAnalysis=bile+VERB+POS+PROG1+A1SG}{metaMorphemes=bile+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

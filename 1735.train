@@ -1,2 +1,1 @@
-`` Yegane soru , ne kadar derin olacağıdır .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Yegane}{morphologicalAnalysis=yegane+ADJ}{metaMorphemes=yegane} {turkish=soru}{morphologicalAnalysis=soru+NOUN+A3SG+PNON+NOM}{metaMorphemes=soru} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne} {turkish=kadar}{morphologicalAnalysis=kadar+POSTP+PCDAT}{metaMorphemes=kadar} {turkish=derin}{morphologicalAnalysis=derin+ADJ}{metaMorphemes=derin} {turkish=olacağıdır}{morphologicalAnalysis=ol+VERB+POS^DB+NOUN+FUTPART+A3SG+P3SG+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ol+yAcAk+sH+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

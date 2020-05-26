@@ -1,2 +1,1 @@
-`` Onu geçirecek oya sahip değiller . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Onu}{morphologicalAnalysis=o+PRON+PERS+A3SG+PNON+ACC}{metaMorphemes=o+nH} {turkish=geçirecek}{morphologicalAnalysis=geçir+VERB+POS^DB+ADJ+FUTPART+PNON}{metaMorphemes=geçir+yAcAk} {turkish=oya}{morphologicalAnalysis=oy+NOUN+A3SG+PNON+DAT}{metaMorphemes=oy+yA} {turkish=sahip}{morphologicalAnalysis=sahip+NOUN+A3SG+PNON+NOM}{metaMorphemes=sahip} {turkish=değiller}{morphologicalAnalysis=değil+ADJ^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=değil+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

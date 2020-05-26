@@ -1,2 +1,1 @@
-`` Amerika'da iş yapmak istiyoruz , '' diyor .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Amerika'da}{morphologicalAnalysis=amerika+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=amerika+'DA} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=yapmak}{morphologicalAnalysis=yap+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=yap+mAk} {turkish=istiyoruz}{morphologicalAnalysis=iste+VERB+POS+PROG1+A1PL}{metaMorphemes=iste+Hyor+yHz} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

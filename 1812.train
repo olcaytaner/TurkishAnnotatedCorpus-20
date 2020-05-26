@@ -1,2 +1,1 @@
-Uyuşturucu sorununa artık yapılan vurguyu destekliyorum .
-
+{turkish=Uyuşturucu}{morphologicalAnalysis=uyuşturucu+ADJ}{metaMorphemes=uyuşturucu} {turkish=sorununa}{morphologicalAnalysis=sorun+NOUN+A3SG+P3SG+DAT}{metaMorphemes=sorun+sH+nA} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık} {turkish=yapılan}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+POS^DB+ADJ+PRESPART}{metaMorphemes=yap+Hl+yAn} {turkish=vurguyu}{morphologicalAnalysis=vurgu+NOUN+A3SG+PNON+ACC}{metaMorphemes=vurgu+yH} {turkish=destekliyorum}{morphologicalAnalysis=destekle+VERB+POS+PROG1+A1SG}{metaMorphemes=destekle+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

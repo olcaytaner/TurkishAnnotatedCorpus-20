@@ -1,2 +1,1 @@
-`` Uzun dönemde , hisse fiyatları yükselecek . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Uzun}{morphologicalAnalysis=uzun+ADJ}{metaMorphemes=uzun} {turkish=dönemde}{morphologicalAnalysis=dönem+NOUN+A3SG+PNON+LOC}{metaMorphemes=dönem+DA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=hisse}{morphologicalAnalysis=hisse+NOUN+A3SG+PNON+NOM}{metaMorphemes=hisse} {turkish=fiyatları}{morphologicalAnalysis=fiyat+NOUN+A3PL+P3SG+NOM}{metaMorphemes=fiyat+lAr+sH} {turkish=yükselecek}{morphologicalAnalysis=yüksel+VERB+POS+FUT+A3SG}{metaMorphemes=yüksel+yAcAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

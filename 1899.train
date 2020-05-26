@@ -1,2 +1,1 @@
-`` Ne olacağından emin değilim , '' dedi .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne} {turkish=olacağından}{morphologicalAnalysis=ol+VERB+POS^DB+NOUN+FUTPART+A3SG+P3SG+ABL}{metaMorphemes=ol+yAcAk+sH+nDAn} {turkish=emin}{morphologicalAnalysis=emin+ADJ}{metaMorphemes=emin} {turkish=değilim}{morphologicalAnalysis=değil+ADJ^DB+NOUN+ZERO+A3SG+P1SG+NOM}{metaMorphemes=değil+Hm} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=dedi}{morphologicalAnalysis=de+VERB+POS+PAST+A3SG}{metaMorphemes=de+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

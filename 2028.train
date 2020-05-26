@@ -1,2 +1,1 @@
-`` Meydana gelmeyen düşüştü , '' diyor .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Meydana}{morphologicalAnalysis=meydan+NOUN+A3SG+PNON+DAT}{metaMorphemes=meydan+yA} {turkish=gelmeyen}{morphologicalAnalysis=gel+VERB+NEG^DB+ADJ+PRESPART}{metaMorphemes=gel+mA+yAn} {turkish=düşüştü}{morphologicalAnalysis=düşüş+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=düşüş+yDH} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

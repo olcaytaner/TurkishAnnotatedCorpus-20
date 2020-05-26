@@ -1,2 +1,1 @@
-Değilse , dolar karaborsası serpilmeye devam edecektir .
-
+{turkish=Değilse}{morphologicalAnalysis=değil+ADJ^DB+VERB+ZERO+COND+A3SG}{metaMorphemes=değil+ysA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=dolar}{morphologicalAnalysis=dolar+NOUN+A3SG+PNON+NOM}{metaMorphemes=dolar} {turkish=karaborsası}{morphologicalAnalysis=karaborsa+NOUN+A3SG+P3SG+NOM}{metaMorphemes=karaborsa+sH} {turkish=serpilmeye}{morphologicalAnalysis=serp+VERB^DB+VERB+PASS+POS^DB+NOUN+INF2+A3SG+PNON+DAT}{metaMorphemes=serp+Hl+mA+yA} {turkish=devam}{morphologicalAnalysis=devam+NOUN+A3SG+PNON+NOM}{metaMorphemes=devam} {turkish=edecektir}{morphologicalAnalysis=et+VERB+POS+FUT+COP+A3SG}{metaMorphemes=et+yAcAk+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

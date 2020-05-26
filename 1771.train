@@ -1,2 +1,1 @@
-Bu hatanın onun üzerinde hiçbir etkisi olmayacaktır . ''
-
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=hatanın}{morphologicalAnalysis=hata+NOUN+A3SG+PNON+GEN}{metaMorphemes=hata+nHn} {turkish=onun}{morphologicalAnalysis=o+PRON+PERS+A3SG+PNON+GEN}{metaMorphemes=o+nHn} {turkish=üzerinde}{morphologicalAnalysis=üzerinde+ADV}{metaMorphemes=üzerinde} {turkish=hiçbir}{morphologicalAnalysis=hiçbir+DET}{metaMorphemes=hiçbir} {turkish=etkisi}{morphologicalAnalysis=etki+NOUN+A3SG+P3SG+NOM}{metaMorphemes=etki+sH} {turkish=olmayacaktır}{morphologicalAnalysis=ol+VERB+NEG+FUT+COP+A3SG}{metaMorphemes=ol+mA+yAcAk+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}
