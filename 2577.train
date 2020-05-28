@@ -1,2 +1,1 @@
-`` Ama 50000 ila 60000 $ arasında kaybedeceğim .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Ama}{morphologicalAnalysis=ama+CONJ}{metaMorphemes=ama} {turkish=50000}{morphologicalAnalysis=50000+NUM+CARD}{metaMorphemes=50000} {turkish=ila}{morphologicalAnalysis=ila+CONJ}{metaMorphemes=ila} {turkish=60000}{morphologicalAnalysis=60000+NUM+CARD}{metaMorphemes=60000} {turkish=$}{morphologicalAnalysis=$+PUNC}{metaMorphemes=$} {turkish=arasında}{morphologicalAnalysis=ara+NOUN+A3SG+P3SG+LOC}{metaMorphemes=ara+sH+nDA} {turkish=kaybedeceğim}{morphologicalAnalysis=kaybet+VERB+POS+FUT+A1SG}{metaMorphemes=kaybet+yAcAk+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

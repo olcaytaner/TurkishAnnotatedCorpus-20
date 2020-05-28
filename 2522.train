@@ -1,2 +1,1 @@
-Bu bindiğimiz dalı kesiyoruz anlamına geliyor. 
-
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=bindiğimiz}{morphologicalAnalysis=bin+VERB+POS^DB+ADJ+PASTPART+P1PL}{metaMorphemes=bin+DHk+HmHz} {turkish=dalı}{morphologicalAnalysis=dal+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dal+sH} {turkish=kesiyoruz}{morphologicalAnalysis=kes+VERB+POS+PROG1+A1PL}{metaMorphemes=kes+Hyor+yHz} {turkish=anlamına}{morphologicalAnalysis=anlam+NOUN+A3SG+P3SG+DAT}{metaMorphemes=anlam+sH+nA} {turkish=geliyor.}{morphologicalAnalysis=geliyor.+NOUN+A3SG+PNON+NOM}{metaMorphemes=geliyor.}

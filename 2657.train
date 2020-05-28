@@ -1,2 +1,1 @@
-Birkaç büyük devlet çiftlikliği yapılanlarda şansını deniyor. 
-
+{turkish=Birkaç}{morphologicalAnalysis=birkaç+DET}{metaMorphemes=birkaç} {turkish=büyük}{morphologicalAnalysis=büyük+ADJ}{metaMorphemes=büyük} {turkish=devlet}{morphologicalAnalysis=devlet+NOUN+A3SG+PNON+NOM}{metaMorphemes=devlet} {turkish=çiftliği}{morphologicalAnalysis=çiftlik+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çiftlik+sH} {turkish=yapılanlarda}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+POS^DB+ADJ+PRESPART^DB+NOUN+ZERO+A3PL+PNON+LOC}{metaMorphemes=yap+Hl+yAn+lAr+DA} {turkish=şansını}{morphologicalAnalysis=şans+NOUN+A3SG+P3SG+ACC}{metaMorphemes=şans+sH+nH} {turkish=deniyor}{morphologicalAnalysis=dene+VERB+POS+PROG1+A3SG}{metaMorphemes=dene+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
