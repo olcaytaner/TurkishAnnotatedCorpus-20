@@ -1,2 +1,1 @@
-Bir sosisli almış olan genç anne oğlunu buldu .
-
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=sosisli}{morphologicalAnalysis=sosis+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=sosis+lH} {turkish=almış}{morphologicalAnalysis=al+VERB+POS+NARR^DB+ADJ+ZERO}{metaMorphemes=al+mHs} {turkish=olan}{morphologicalAnalysis=ol+VERB+POS^DB+ADJ+PRESPART}{metaMorphemes=ol+yAn} {turkish=genç}{morphologicalAnalysis=genç+ADJ}{metaMorphemes=genç} {turkish=anne}{morphologicalAnalysis=anne+NOUN+A3SG+PNON+NOM}{metaMorphemes=anne} {turkish=oğlunu}{morphologicalAnalysis=oğul+NOUN+A3SG+P3SG+ACC}{metaMorphemes=oğul+sH+nH} {turkish=buldu}{morphologicalAnalysis=bul+VERB+POS+PAST+A3SG}{metaMorphemes=bul+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

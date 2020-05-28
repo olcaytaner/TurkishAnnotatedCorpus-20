@@ -1,2 +1,1 @@
-`` Yapmak istediklerimizin çoğunu yaptık . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Yapmak}{morphologicalAnalysis=yap+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=yap+mAk} {turkish=istediklerimizin}{morphologicalAnalysis=iste+VERB+POS^DB+NOUN+PASTPART+A3PL+P1PL+GEN}{metaMorphemes=iste+DHk+lAr+HmHz+nHn} {turkish=çoğunu}{morphologicalAnalysis=çoğu+PRON+QUANTP+A3PL+P3PL+ACC}{metaMorphemes=çoğu+nH} {turkish=yaptık}{morphologicalAnalysis=yap+VERB+POS+PAST+A1PL}{metaMorphemes=yap+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

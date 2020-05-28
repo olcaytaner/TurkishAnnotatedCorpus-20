@@ -1,2 +1,1 @@
-Şirketler , emanet sözleşmesinin detaylarının tamamlanmadığını söyledi .
-
+{turkish=Şirketler}{morphologicalAnalysis=şirket+NOUN+A3PL+PNON+NOM}{metaMorphemes=şirket+lAr} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=emanet} {turkish=sözleşmesinin}{morphologicalAnalysis=söz+NOUN+A3SG+PNON+NOM^DB+VERB+BECOME+POS^DB+NOUN+INF2+A3SG+P3SG+GEN}{metaMorphemes=söz+lAs+mA+sH+nHn} {turkish=detaylarının} {turkish=tamamlanmadığını}{morphologicalAnalysis=tamamla+VERB^DB+VERB+PASS+NEG^DB+NOUN+PASTPART+A3SG+P3SG+ACC}{metaMorphemes=tamamla+n+mA+DHk+sH+nH} {turkish=söyledi}{morphologicalAnalysis=söyle+VERB+POS+PAST+A3SG}{metaMorphemes=söyle+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

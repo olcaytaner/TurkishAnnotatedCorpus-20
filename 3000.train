@@ -1,2 +1,1 @@
-Gerçek şu ki , banka kredileri 40 yıldır politika iyileştirmeleriyle bağlatılıdır. 
-
+{turkish=Gerçek} {turkish=şu} {turkish=ki}{morphologicalAnalysis=ki+CONJ}{metaMorphemes=ki} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=banka}{morphologicalAnalysis=banka+NOUN+A3SG+PNON+NOM}{metaMorphemes=banka} {turkish=kredileri}{morphologicalAnalysis=kredi+NOUN+A3PL+P3SG+NOM}{metaMorphemes=kredi+lAr+sH} {turkish=40}{morphologicalAnalysis=40+NUM+CARD}{metaMorphemes=40} {turkish=yıldır} {turkish=politika}{morphologicalAnalysis=politika+NOUN+A3SG+PNON+NOM}{metaMorphemes=politika} {turkish=iyileştirmeleriyle} {turkish=bağlatılıdır.}{morphologicalAnalysis=bağlatılıdır.+NOUN+A3SG+PNON+NOM}{metaMorphemes=bağlatılıdır.}

@@ -1,2 +1,1 @@
-Bu , piyasayı denemeli mi sorusuna geliyor .
-
+{turkish=Bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=piyasayı}{morphologicalAnalysis=piyasa+NOUN+A3SG+PNON+ACC}{metaMorphemes=piyasa+yH} {turkish=denemeli}{morphologicalAnalysis=dene+VERB+POS+NECES+A3SG}{metaMorphemes=dene+mAlH} {turkish=mi}{morphologicalAnalysis=mi+QUES+PRES+A3SG}{metaMorphemes=mi} {turkish=sorusuna}{morphologicalAnalysis=soru+NOUN+A3SG+P3SG+DAT}{metaMorphemes=soru+sH+nA} {turkish=geliyor}{morphologicalAnalysis=gel+VERB+POS+PROG1+A3SG}{metaMorphemes=gel+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

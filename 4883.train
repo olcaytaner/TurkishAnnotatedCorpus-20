@@ -1,2 +1,1 @@
-Leo'nun 55'inci katında ve Oakland'da Telegraph'da sürdüm .
-
+{turkish=Leo'nun}{morphologicalAnalysis=leo+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=leo+'nHn} {turkish=55'inci}{morphologicalAnalysis=55'inci+NOUN+A3SG+PNON+NOM}{metaMorphemes=55'inci} {turkish=katında}{morphologicalAnalysis=kat+NOUN+A3SG+P3SG+LOC}{metaMorphemes=kat+sH+nDA} {turkish=ve}{morphologicalAnalysis=ve+CONJ}{metaMorphemes=ve} {turkish=Oakland'da}{morphologicalAnalysis=oakland+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=oakland+'DA} {turkish=Telegraph'da}{morphologicalAnalysis=Telegraph'da+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Telegraph'da} {turkish=sürdüm}{morphologicalAnalysis=sür+VERB+POS+PAST+A1SG}{metaMorphemes=sür+DH+m} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

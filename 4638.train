@@ -1,2 +1,1 @@
-Adliye için bir yarış olacaksa , henüz başlamadı .
-
+{turkish=Adliye}{morphologicalAnalysis=adliye+NOUN+A3SG+PNON+NOM}{metaMorphemes=adliye} {turkish=için}{morphologicalAnalysis=için+POSTP+PCNOM}{metaMorphemes=için} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=yarış}{morphologicalAnalysis=yarış+NOUN+A3SG+PNON+NOM}{metaMorphemes=yarış} {turkish=olacaksa}{morphologicalAnalysis=ol+VERB+POS+FUT+COND+A3SG}{metaMorphemes=ol+yAcAk+ysA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=henüz}{morphologicalAnalysis=henüz+ADV}{metaMorphemes=henüz} {turkish=başlamadı}{morphologicalAnalysis=başla+VERB+NEG+PAST+A3SG}{metaMorphemes=başla+mA+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

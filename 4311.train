@@ -1,2 +1,1 @@
-Geliri cari dönemde kazanmış olacak , diye ekledi .
-
+{turkish=Geliri}{morphologicalAnalysis=gelir+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gelir+sH} {turkish=cari}{morphologicalAnalysis=cari+ADJ}{metaMorphemes=cari} {turkish=dönemde}{morphologicalAnalysis=dönem+NOUN+A3SG+PNON+LOC}{metaMorphemes=dönem+DA} {turkish=kazanmış}{morphologicalAnalysis=kazan+VERB+POS+NARR^DB+ADJ+ZERO}{metaMorphemes=kazan+mHs} {turkish=olacak}{morphologicalAnalysis=ol+VERB+POS+FUT+A3SG}{metaMorphemes=ol+yAcAk} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=diye}{morphologicalAnalysis=diye+POSTP+PCNOM}{metaMorphemes=diye} {turkish=ekledi}{morphologicalAnalysis=ekle+VERB+POS+PAST+A3SG}{metaMorphemes=ekle+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

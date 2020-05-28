@@ -1,2 +1,1 @@
-Aydan aya , tekrar tekrar tasarlanmak zorundadır .
-
+{turkish=Aydan}{morphologicalAnalysis=ay+NOUN+A3SG+PNON+ABL}{metaMorphemes=ay+DAn} {turkish=aya}{morphologicalAnalysis=ay+NOUN+A3SG+PNON+DAT}{metaMorphemes=ay+yA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=tekrar}{morphologicalAnalysis=tekrar+ADV}{metaMorphemes=tekrar} {turkish=tekrar}{morphologicalAnalysis=tekrar+ADV}{metaMorphemes=tekrar} {turkish=tasarlanmak}{morphologicalAnalysis=tasarla+VERB^DB+VERB+PASS+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=tasarla+n+mAk} {turkish=zorundadır}{morphologicalAnalysis=zor+ADJ^DB+NOUN+ZERO+A3SG+P3SG+LOC^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=zor+sH+nDA+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

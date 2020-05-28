@@ -1,2 +1,1 @@
-`` Kaçak bir Noel aramıyorum '' diyor .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Kaçak}{morphologicalAnalysis=kaçak+ADJ}{metaMorphemes=kaçak} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=Noel}{morphologicalAnalysis=noel+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=noel} {turkish=aramıyorum}{morphologicalAnalysis=ara+VERB+NEG+PROG1+A1SG}{metaMorphemes=ara+mA+Hyor+yHm} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

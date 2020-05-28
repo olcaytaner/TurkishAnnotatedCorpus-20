@@ -1,2 +1,1 @@
-`` Denemeden bilemezsin , '' diyor siyahi kayakçı .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Denemeden}{morphologicalAnalysis=dene+VERB+POS^DB+ADV+WITHOUTHAVINGDONESO}{metaMorphemes=dene+mAdAn} {turkish=bilemezsin}{morphologicalAnalysis=bil+VERB^DB+VERB+ABLE+NEG+AOR+A2SG}{metaMorphemes=bil+yAmA+zsHn} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=siyahi}{morphologicalAnalysis=siyahi+ADJ}{metaMorphemes=siyahi} {turkish=kayakçı}{morphologicalAnalysis=kayakçı+NOUN+A3SG+PNON+NOM}{metaMorphemes=kayakçı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
