@@ -1,2 +1,1 @@
-Kağıt parçasına hayal kırıklığı içinde çarpar , sonra döner ve uzaklaşır .
-
+{turkish=Kağıt} {turkish=parçasına}{morphologicalAnalysis=parça+NOUN+A3SG+P3SG+DAT}{metaMorphemes=parça+sH+nA} {turkish=hayal}{morphologicalAnalysis=hayal+NOUN+A3SG+PNON+NOM}{metaMorphemes=hayal} {turkish=kırıklığı}{morphologicalAnalysis=kırıklık+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kırıklık+sH} {turkish=içinde}{morphologicalAnalysis=içinde+ADV}{metaMorphemes=içinde} {turkish=çarpar} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=sonra} {turkish=döner} {turkish=ve}{morphologicalAnalysis=ve+CONJ}{metaMorphemes=ve} {turkish=uzaklaşır} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
