@@ -1,2 +1,1 @@
-Nasıl yapılacağını bilmiyoruz değil , çünkü yapıyoruz .
-
+{turkish=Nasıl}{morphologicalAnalysis=nasıl+ADJ}{metaMorphemes=nasıl} {turkish=yapılacağını}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+POS^DB+NOUN+FUTPART+A3SG+P3SG+ACC}{metaMorphemes=yap+Hl+yAcAk+sH+nH} {turkish=bilmiyoruz}{morphologicalAnalysis=bil+VERB+NEG+PROG1+A1PL}{metaMorphemes=bil+mA+Hyor+yHz} {turkish=değil}{morphologicalAnalysis=değil+ADJ}{metaMorphemes=değil} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=çünkü}{morphologicalAnalysis=çünkü+CONJ}{metaMorphemes=çünkü} {turkish=yapıyoruz}{morphologicalAnalysis=yap+VERB+POS+PROG1+A1PL}{metaMorphemes=yap+Hyor+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

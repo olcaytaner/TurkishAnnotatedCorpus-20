@@ -1,2 +1,1 @@
-Kaydın yürürlük tarihi SEC tarafından belirlenecektir .
-
+{turkish=Kaydın}{morphologicalAnalysis=kayıt+NOUN+A3SG+PNON+GEN}{metaMorphemes=kayıt+nHn} {turkish=yürürlük}{morphologicalAnalysis=yürürlük+NOUN+A3SG+PNON+NOM}{metaMorphemes=yürürlük} {turkish=tarihi}{morphologicalAnalysis=tarih+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tarih+sH} {turkish=SEC}{morphologicalAnalysis=sec+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=sec} {turkish=tarafından}{morphologicalAnalysis=tarafından+ADV}{metaMorphemes=tarafından} {turkish=belirlenecektir}{morphologicalAnalysis=belirle+VERB^DB+VERB+PASS+POS+FUT+COP+A3SG}{metaMorphemes=belirle+n+yAcAk+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

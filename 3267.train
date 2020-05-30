@@ -1,2 +1,1 @@
-Kimsenin evinde kabul edilemez bir şey yapmayacağım .
-
+{turkish=Kimsenin}{morphologicalAnalysis=kimse+PRON+QUANTP+A3SG+P3SG+GEN}{metaMorphemes=kimse+nHn} {turkish=evinde}{morphologicalAnalysis=ev+NOUN+A3SG+P3SG+LOC}{metaMorphemes=ev+sH+nDA} {turkish=kabul}{morphologicalAnalysis=kabul+NOUN+A3SG+PNON+NOM}{metaMorphemes=kabul} {turkish=edilemez}{morphologicalAnalysis=et+VERB^DB+VERB+PASS^DB+VERB+ABLE+NEG+AOR+A3SG}{metaMorphemes=et+Hl+yAmA+z} {turkish=bir}{morphologicalAnalysis=bir+ADJ}{metaMorphemes=bir} {turkish=şey}{morphologicalAnalysis=şey+NOUN+A3SG+PNON+NOM}{metaMorphemes=şey} {turkish=yapmayacağım}{morphologicalAnalysis=yap+VERB+NEG+FUT+A1SG}{metaMorphemes=yap+mA+yAcAk+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

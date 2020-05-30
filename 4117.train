@@ -1,2 +1,1 @@
-Bu fiyata yapılmazsa , doldurulmaz .
-
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=fiyata}{morphologicalAnalysis=fiyat+NOUN+A3SG+PNON+DAT}{metaMorphemes=fiyat+yA} {turkish=yapılmazsa}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+NEG+AOR+COND+A3SG}{metaMorphemes=yap+Hl+mA+z+ysA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=doldurulmaz}{morphologicalAnalysis=doldur+VERB^DB+VERB+PASS+NEG+AOR+A3SG}{metaMorphemes=doldur+Hl+mA+z} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

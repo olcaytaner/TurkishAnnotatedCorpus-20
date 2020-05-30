@@ -1,2 +1,1 @@
-Ama bu sinirlenmeyeceğim anlamına gelmiyor .
-
+{turkish=Ama}{morphologicalAnalysis=ama+CONJ}{metaMorphemes=ama} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=sinirlenmeyeceğim}{morphologicalAnalysis=sinirle+VERB^DB+VERB+PASS+NEG^DB+ADJ+FUTPART+P1SG}{metaMorphemes=sinirle+n+mA+yAcAk+Hm} {turkish=anlamına}{morphologicalAnalysis=anlam+NOUN+A3SG+P3SG+DAT}{metaMorphemes=anlam+sH+nA} {turkish=gelmiyor}{morphologicalAnalysis=gel+VERB+NEG+PROG1+A3SG}{metaMorphemes=gel+mA+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
