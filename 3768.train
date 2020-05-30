@@ -1,2 +1,1 @@
-Dışarıdaki soyguncuları kovalarken elinde ilk kez vuruldu .
-
+{turkish=Dışarıdaki}{morphologicalAnalysis=dışarı+NOUN+A3SG+PNON+LOC^DB+ADJ+REL}{metaMorphemes=dışarı+DA+ki} {turkish=soyguncuları}{morphologicalAnalysis=soyguncu+NOUN+A3PL+PNON+ACC}{metaMorphemes=soyguncu+lAr+yH} {turkish=kovalarken}{morphologicalAnalysis=kovala+VERB+POS+AOR^DB+ADV+WHILE}{metaMorphemes=kovala+Hr+yken} {turkish=elinde}{morphologicalAnalysis=el+NOUN+A3SG+P3SG+LOC}{metaMorphemes=el+sH+nDA} {turkish=ilk}{morphologicalAnalysis=ilk+ADJ}{metaMorphemes=ilk} {turkish=kez}{morphologicalAnalysis=kez+NOUN+A3SG+PNON+NOM}{metaMorphemes=kez} {turkish=vuruldu}{morphologicalAnalysis=vur+VERB^DB+VERB+PASS+POS+PAST+A3SG}{metaMorphemes=vur+Hl+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

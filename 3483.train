@@ -1,2 +1,1 @@
-Kazançta ivme gerçekleşecek ise , bu çeyrek olmalıdır .
-
+{turkish=Kazançta}{morphologicalAnalysis=kazanç+NOUN+A3SG+PNON+LOC}{metaMorphemes=kazanç+DA} {turkish=ivme}{morphologicalAnalysis=ivme+NOUN+A3SG+PNON+NOM}{metaMorphemes=ivme} {turkish=gerçekleşecek}{morphologicalAnalysis=gerçekleş+VERB+POS+FUT+A3SG}{metaMorphemes=gerçekleş+yAcAk} {turkish=ise}{morphologicalAnalysis=i+VERB+POS+DESR+A3SG}{metaMorphemes=i+SA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=çeyrek}{morphologicalAnalysis=çeyrek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çeyrek} {turkish=olmalıdır}{morphologicalAnalysis=ol+VERB+POS+NECES+COP+A3SG}{metaMorphemes=ol+mAlH+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

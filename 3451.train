@@ -1,2 +1,1 @@
-" Çayı severim , çünkü o günün sonunda . ''
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Çayı}{morphologicalAnalysis=çay+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çay+sH} {turkish=severim}{morphologicalAnalysis=sev+VERB+POS+AOR+A1SG}{metaMorphemes=sev+Ar+yHm} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=çünkü}{morphologicalAnalysis=çünkü+CONJ}{metaMorphemes=çünkü} {turkish=o}{morphologicalAnalysis=o+DET}{metaMorphemes=o} {turkish=günün}{morphologicalAnalysis=gün+NOUN+A3SG+PNON+GEN}{metaMorphemes=gün+nHn} {turkish=sonunda}{morphologicalAnalysis=sonunda+ADV}{metaMorphemes=sonunda} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

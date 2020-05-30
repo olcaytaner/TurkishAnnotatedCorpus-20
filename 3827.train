@@ -1,2 +1,1 @@
-`` İlk çıktıkları gün onlara atlamayacağım . ''
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=İlk}{morphologicalAnalysis=ilk+ADJ}{metaMorphemes=ilk} {turkish=çıktıkları}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+PASTPART+A3PL+P3SG+NOM}{metaMorphemes=çık+DHk+lAr+sH} {turkish=gün}{morphologicalAnalysis=gün+NOUN+A3SG+PNON+NOM}{metaMorphemes=gün} {turkish=onlara}{morphologicalAnalysis=o+PRON+DEMONSP+A3PL+PNON+DAT}{metaMorphemes=o+nlAr+yA} {turkish=atlamayacağım}{morphologicalAnalysis=atla+VERB+NEG+FUT+A1SG}{metaMorphemes=atla+mA+yAcAk+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=''}{morphologicalAnalysis=''+PUNC}{metaMorphemes=''}

@@ -1,2 +1,1 @@
-`` Eğer fiyatları artırmasaydık , biz kırmızı olacaktık .
-
+{turkish=``}{morphologicalAnalysis=``+PUNC}{metaMorphemes=``} {turkish=Eğer}{morphologicalAnalysis=eğer+CONJ}{metaMorphemes=eğer} {turkish=fiyatları}{morphologicalAnalysis=fiyat+NOUN+A3PL+PNON+ACC}{metaMorphemes=fiyat+lAr+yH} {turkish=artırmasaydık}{morphologicalAnalysis=artır+VERB+NEG+DESR+PAST+A1PL}{metaMorphemes=artır+mA+SA+yDH+k} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=biz}{morphologicalAnalysis=biz+PRON+PERS+A1PL+PNON+NOM}{metaMorphemes=biz} {turkish=kırmızı}{morphologicalAnalysis=kırmızı+ADJ}{metaMorphemes=kırmızı} {turkish=olacaktık}{morphologicalAnalysis=ol+VERB+POS+FUT+PAST+A1PL}{metaMorphemes=ol+yAcAk+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

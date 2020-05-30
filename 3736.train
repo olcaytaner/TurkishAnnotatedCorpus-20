@@ -1,2 +1,1 @@
-" Sadece müşterilerle telefonda görüşeceğiz " diyor .
-
+{turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=Sadece}{morphologicalAnalysis=sadece+ADV}{metaMorphemes=sadece} {turkish=müşterilerle}{morphologicalAnalysis=müşteri+NOUN+A3PL+PNON+INS}{metaMorphemes=müşteri+lAr+ylA} {turkish=telefonda}{morphologicalAnalysis=telefon+NOUN+A3SG+PNON+LOC}{metaMorphemes=telefon+DA} {turkish=görüşeceğiz}{morphologicalAnalysis=görüş+VERB+POS+FUT+A1PL}{metaMorphemes=görüş+yAcAk+yHz} {turkish="}{morphologicalAnalysis="+PUNC}{metaMorphemes="} {turkish=diyor}{morphologicalAnalysis=de+VERB+POS+PROG1+A3SG}{metaMorphemes=de+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

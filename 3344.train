@@ -1,2 +1,1 @@
-Eğer satmaya çalışırlarsa , kendi kuyruklarını kovalayacaklardı .
-
+{turkish=Eğer}{morphologicalAnalysis=eğer+CONJ}{metaMorphemes=eğer} {turkish=satmaya}{morphologicalAnalysis=sat+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT}{metaMorphemes=sat+mA+yA} {turkish=çalışırlarsa}{morphologicalAnalysis=çalış+VERB+POS+AOR+A3PL+COND}{metaMorphemes=çalış+Hr+lAr+ysA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=kendi}{morphologicalAnalysis=kendi+PRON+REFLEXP+A3SG+P3SG+NOM}{metaMorphemes=kendi} {turkish=kuyruklarını}{morphologicalAnalysis=kuyruk+NOUN+A3PL+P3SG+ACC}{metaMorphemes=kuyruk+lAr+sH+nH} {turkish=kovalayacaklardı}{morphologicalAnalysis=kovala+VERB+POS+FUT+A3PL+PAST}{metaMorphemes=kovala+yAcAk+lAr+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
