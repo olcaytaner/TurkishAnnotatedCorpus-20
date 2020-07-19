@@ -1,2 +1,1 @@
-Sidhpur'da , bu yılın ürününün dikim zamanı geldi .
-
+{turkish=Sidhpur'da}{universalDependency=8$OBL} {turkish=,}{universalDependency=8$PUNCT} {turkish=bu}{universalDependency=4$DET} {turkish=yılın}{universalDependency=5$NMOD} {turkish=ürününün}{universalDependency=6$NMOD} {turkish=dikim}{universalDependency=7$NMOD} {turkish=zamanı}{universalDependency=8$OBJ} {turkish=geldi}{universalDependency=0$ROOT} {turkish=.}{universalDependency=8$PUNCT}

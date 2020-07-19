@@ -1,2 +1,1 @@
-Yanlış zamanda bir yağmur alırsınız ve ürün mahvolur ,'' dedi . ''
-
+{turkish=Yanlış}{universalDependency=2$AMOD} {turkish=zamanda}{universalDependency=4$AMOD} {turkish=bir}{universalDependency=4$DET} {turkish=yağmur}{universalDependency=5$OBJ} {turkish=alırsınız}{universalDependency=10$PARATAXIS} {turkish=ve}{universalDependency=8$CC} {turkish=ürün}{universalDependency=8$NSUBJ} {turkish=mahvolur}{universalDependency=5$CONJ} {turkish=,''}{universalDependency=10$PUNCT} {turkish=dedi}{universalDependency=0$ROOT} {turkish=.}{universalDependency=10$PUNCT} {turkish=''}{universalDependency=10$PUNCT}

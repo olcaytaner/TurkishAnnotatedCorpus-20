@@ -1,2 +1,1 @@
-Psilyum ihracatçısı Bay Patel : `` Daha dün ABD'den döndüm .
-
+{turkish=Psilyum}{universalDependency=2$NMOD} {turkish=ihracatçısı}{universalDependency=3$APPOS} {turkish=Bay}{universalDependency=4$NMOD} {turkish=Patel}{universalDependency=10$NSUBJ} {turkish=:}{universalDependency=10$PUNCT} {turkish=``}{universalDependency=10$PUNCT} {turkish=Daha}{universalDependency=8$ADVMOD} {turkish=dün}{universalDependency=10$ADVMOD} {turkish=ABD'den}{universalDependency=10$IOBJ} {turkish=döndüm}{universalDependency=0$ROOT} {turkish=.}{universalDependency=10$PUNCT}

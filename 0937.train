@@ -1,2 +1,1 @@
-Ancak bu aşırı ilgi haberleri çiftçilere henüz ulaşmaya başladı .
-
+{turkish=Ancak}{universalDependency=9$CC} {turkish=bu}{universalDependency=3$DET} {turkish=aşırı}{universalDependency=4$AMOD} {turkish=ilgi}{universalDependency=5$NMOD} {turkish=haberleri}{universalDependency=8$NSUBJ} {turkish=çiftçilere}{universalDependency=8$IOBJ} {turkish=henüz}{universalDependency=8$ADVMOD} {turkish=ulaşmaya}{universalDependency=9$COMPOUND} {turkish=başladı}{universalDependency=0$ROOT} {turkish=.}{universalDependency=9$PUNCT}

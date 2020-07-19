@@ -1,2 +1,1 @@
-FDA , Kellog ve General Mills'den tahıllarının güvenli olduğunu kanıtlayan araştırmaları göstermesini istedi .
-
+{turkish=FDA}{universalDependency=13$OBL} {turkish=,}{universalDependency=3$CC} {turkish=Kellog}{universalDependency=1$CONJ} {turkish=ve}{universalDependency=6$CC} {turkish=General}{universalDependency=6$FLAT} {turkish=Mills'den}{universalDependency=3$CONJ} {turkish=tahıllarının}{universalDependency=8$NSUBJ} {turkish=güvenli}{universalDependency=10$CCOMP} {turkish=olduğunu}{universalDependency=8$AUX} {turkish=kanıtlayan}{universalDependency=11$ACL} {turkish=araştırmaları}{universalDependency=12$OBJ} {turkish=göstermesini}{universalDependency=13$CCOMP} {turkish=istedi}{universalDependency=0$ROOT} {turkish=.}{universalDependency=13$PUNCT}
